@@ -1,3 +1,4 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  organized_hash = {}
+  data.map do 
 end
